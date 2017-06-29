@@ -1,0 +1,90 @@
+"2017-03-17 21:07:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"
+"2017-03-17 21:17:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"
+"2017-03-17 21:27:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"
+"2017-03-17 21:37:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"
+"2017-03-17 21:47:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"
+"2017-03-17 21:57:17 EDT","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: The operation retry limit has been exceeded.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.lang.IllegalStateException: Unable to obtain an upload URL.
+	... 6 more
+"

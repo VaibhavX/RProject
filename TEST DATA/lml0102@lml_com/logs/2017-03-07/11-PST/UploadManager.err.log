@@ -1,0 +1,1088 @@
+"2017-03-07 11:12:03 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:03 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:04 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:04 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:05 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:05 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:06 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:06 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:06 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:07 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:07 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:08 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:08 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:09 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:09 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:09 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:15 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:15 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:16 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:18 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:31 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:32 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:32 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:32 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:32 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:33 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:34 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:34 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:34 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:34 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:34 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:35 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:35 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:35 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:35 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:35 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:36 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:37 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:37 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:37 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:37 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:37 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:38 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:48 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:49 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:49 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:50 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:50 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:51 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:51 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:52 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:52 PST","E","unknown_user","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"
+"2017-03-07 11:12:52 PST","E","lml0102@lml_com","UploadManager","com.google.firebase.storage.StorageException: User does not have permission to access this object.
+	at com.google.firebase.storage.UploadTask.aB(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ai(Unknown Source)
+	at com.google.firebase.storage.StorageTask.aq(Unknown Source)
+	at com.google.firebase.storage.zze.aw(Unknown Source)
+	at com.google.firebase.storage.StorageTask.zzi(Unknown Source)
+	at com.google.firebase.storage.UploadTask.az(Unknown Source)
+	at com.google.firebase.storage.UploadTask.ay(Unknown Source)
+	at com.google.firebase.storage.UploadTask.run(Unknown Source)
+	at com.google.firebase.storage.StorageTask$5.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.IOException: The server has terminated the upload session
+	... 7 more
+"

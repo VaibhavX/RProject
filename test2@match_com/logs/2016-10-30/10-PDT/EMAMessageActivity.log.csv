@@ -1,0 +1,4 @@
+"2016-10-30 10:36:30 PDT","I","test2@match_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2016-10-30 10:36:30 PDT","I","test2@match_com","EMAMessageActivity","Setting message on screen - Thank you for the sample. Please place it in the refrigerator! Remember, you will be taking your second sample in 30 minutes. Please do not eat or drink, brush your teeth, exercise or smoke until then."
+"2016-10-30 10:36:31 PDT","I","test2@match_com","EMAMessageActivity","Next button pressed"
+"2016-10-30 10:36:32 PDT","I","test2@match_com","EMAMessageActivity","Inside onDestroy"

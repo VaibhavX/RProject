@@ -1,0 +1,7 @@
+"2017-03-11 16:10:01 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.ACTION_POWER_CONNECTED"
+"2017-03-11 16:10:03 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"
+"2017-03-11 16:10:32 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"
+"2017-03-11 16:16:20 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"
+"2017-03-11 16:20:39 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.ACTION_SHUTDOWN"
+"2017-03-11 16:22:12 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.BOOT_COMPLETED"
+"2017-03-11 16:22:17 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"

@@ -1,0 +1,4 @@
+"2016-10-31 08:14:11 PDT","I","test2@match_com","SystemBroadcastReceiver","android.intent.action.ACTION_POWER_DISCONNECTED"
+"2016-10-31 08:14:15 PDT","I","test2@match_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"
+"2016-10-31 08:14:34 PDT","I","test2@match_com","SystemBroadcastReceiver","android.intent.action.BOOT_COMPLETED"
+"2016-10-31 08:14:36 PDT","I","test2@match_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"

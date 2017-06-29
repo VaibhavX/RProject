@@ -1,0 +1,4 @@
+"2017-03-08 13:01:18 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.ACTION_POWER_CONNECTED"
+"2017-03-08 13:20:22 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.BATTERY_OKAY"
+"2017-03-08 13:44:56 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.ACTION_POWER_DISCONNECTED"
+"2017-03-08 13:59:06 PST","I","lml0101@lml_com","SystemBroadcastReceiver","android.intent.action.USER_PRESENT"

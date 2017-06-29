@@ -1,0 +1,4 @@
+"2017-03-22 10:02:07 PDT","I","lml0101@lml_com","SurveyService","Inside onDestroy"
+"2017-03-22 10:02:07 PDT","I","lml0101@lml_com","SurveyService","Start writing survey results to files"
+"2017-03-22 10:02:08 PDT","I","lml0101@lml_com","SurveyService","Clear EMA notification upon time out or survey completion"
+"2017-03-22 10:02:08 PDT","I","lml0101@lml_com","SurveyService","Released Wake Lock"

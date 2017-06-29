@@ -1,0 +1,7 @@
+"2016-10-26 16:13:39 PDT","I","test2@match_com","UploadManager","Number of files left to upload - 1"
+"2016-10-26 16:13:39 PDT","I","test2@match_com","UploadManager","Uploading File - /storage/emulated/0/.MATCH/logs/2016-10-26/15-PDT.zip"
+"2016-10-26 16:13:39 PDT","I","test2@match_com","UploadManager","Uploading is already in progress."
+"2016-10-26 16:13:41 PDT","I","test2@match_com","UploadManager","File upload successful - /storage/emulated/0/.MATCH/logs/2016-10-26/15-PDT.zip"
+"2016-10-26 16:13:41 PDT","I","test2@match_com","UploadManager","Number of files left to upload - 1"
+"2016-10-26 16:13:41 PDT","I","test2@match_com","UploadManager","Uploading File - /storage/emulated/0/.MATCH/data/2016-10-26/15-PDT.zip"
+"2016-10-26 16:13:42 PDT","I","test2@match_com","UploadManager","File upload successful - /storage/emulated/0/.MATCH/data/2016-10-26/15-PDT.zip"

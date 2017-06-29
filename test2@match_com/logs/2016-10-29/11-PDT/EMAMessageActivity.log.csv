@@ -1,0 +1,8 @@
+"2016-10-29 11:45:27 PDT","I","test2@match_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2016-10-29 11:45:27 PDT","I","test2@match_com","EMAMessageActivity","Setting message on screen - It is time for a survey."
+"2016-10-29 11:45:40 PDT","I","test2@match_com","EMAMessageActivity","Next button pressed"
+"2016-10-29 11:46:02 PDT","I","test2@match_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2016-10-29 11:46:02 PDT","I","test2@match_com","EMAMessageActivity","Setting message on screen - Thank you."
+"2016-10-29 11:46:03 PDT","I","test2@match_com","EMAMessageActivity","Next button pressed"
+"2016-10-29 11:46:04 PDT","I","test2@match_com","EMAMessageActivity","Inside onDestroy"
+"2016-10-29 11:46:04 PDT","I","test2@match_com","EMAMessageActivity","Inside onDestroy"

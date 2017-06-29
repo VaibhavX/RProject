@@ -1,0 +1,4 @@
+"2017-03-29 14:00:31 PDT","I","lml0101@lml_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2017-03-29 14:00:31 PDT","I","lml0101@lml_com","EMAMessageActivity","Setting message on screen - Thank you for opening the daily log. To complete a log entry, you will answer questions about sleep, any substances (tobacco, alcohol, drugs) you may have used, and about any sexual encounters you may have had yesterday.<br /><br />Please answer all questions as completely and honestly as possible. For questions about the amount of a certain substance used, please use your best estimate. "
+"2017-03-29 14:00:33 PDT","I","lml0101@lml_com","EMAMessageActivity","Next button pressed"
+"2017-03-29 14:15:32 PDT","I","lml0101@lml_com","EMAMessageActivity","Inside onDestroy"

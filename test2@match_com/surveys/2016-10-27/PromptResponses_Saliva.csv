@@ -1,0 +1,3 @@
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q1_saliva_main","Q2_thankYou","Q3_didIt"
+"test2@match_com","KEY_SALIVA_AFTERNOON_4TO430_CHILD","Reprompt","Completed","2016-10-27","Thu Oct 27 16:28:05 PDT 2016","I'll do it now.","",""
+"test2@match_com","KEY_SALIVA_BEDTIME","Prompt","Completed","2016-10-27","Thu Oct 27 21:46:18 PDT 2016","I'll do it now.","",""

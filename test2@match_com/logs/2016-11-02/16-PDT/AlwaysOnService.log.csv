@@ -1,0 +1,7 @@
+"2016-11-02 16:33:25 PDT","I","test2@match_com","AlwaysOnService","Inside onCreate"
+"2016-11-02 16:33:25 PDT","I","test2@match_com","AlwaysOnService","Acquired Partial Wake Lock"
+"2016-11-02 16:33:25 PDT","I","test2@match_com","AlwaysOnService","Received Intent - android.intent.action.BATTERY_CHANGED"
+"2016-11-02 16:33:39 PDT","I","test2@match_com","AlwaysOnService","Received Intent - android.intent.action.SCREEN_ON"
+"2016-11-02 16:33:39 PDT","I","test2@match_com","AlwaysOnService","Received Intent - android.intent.action.SCREEN_OFF"
+"2016-11-02 16:34:01 PDT","I","test2@match_com","AlwaysOnService","Received Intent - android.intent.action.BATTERY_CHANGED"
+"2016-11-02 16:34:08 PDT","I","test2@match_com","AlwaysOnService","Received Intent - android.intent.action.TIME_TICK"

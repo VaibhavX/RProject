@@ -1,0 +1,8 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Sep 28 15:19:07 PDT 2016","Wed Sep 28 15:19:20 PDT 2016","Wed Sep 28 15:20:23 PDT 2016","KEY_EMA_1500TO1530_MOTHER","Vibrate","false","0","Completed",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Sep 28 17:25:05 PDT 2016","Wed Sep 28 17:25:16 PDT 2016","Wed Sep 28 17:25:57 PDT 2016","KEY_EMA_1700TO1730_MOTHER","Audio","false","0","Completed",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Sep 28 19:03:11 PDT 2016","Wed Sep 28 19:06:32 PDT 2016","Wed Sep 28 19:07:42 PDT 2016","KEY_EMA_1900TO1930_MOTHER","Audio","true","1","Completed",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Sep 28 21:14:12 PDT 2016","Wed Sep 28 21:17:21 PDT 2016","Wed Sep 28 21:20:46 PDT 2016","KEY_EMA_2100TO2130_MOTHER","Audio","true","2","Completed",""

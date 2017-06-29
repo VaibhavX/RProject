@@ -1,0 +1,4 @@
+"2016-10-15 19:09:17 PDT","I","test2@match_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2016-10-15 19:09:17 PDT","I","test2@match_com","EMAMessageActivity","Setting message on screen - It is time for a survey."
+"2016-10-15 19:09:27 PDT","I","test2@match_com","EMAMessageActivity","Next button pressed"
+"2016-10-15 19:19:18 PDT","I","test2@match_com","EMAMessageActivity","Inside onDestroy"

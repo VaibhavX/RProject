@@ -1,0 +1,6 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Oct 12 15:35:59 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Wed Oct 12 15:46:01 PDT 2016","KEY_EMA_1530TO1600_CHILD","Audio","true","2","Never Started",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Oct 12 18:00:10 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Wed Oct 12 18:10:12 PDT 2016","KEY_EMA_1730TO1800_CHILD","Audio","true","2","Never Started",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Wed Oct 12 19:55:10 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Wed Oct 12 20:05:13 PDT 2016","KEY_EMA_1930TO2000_CHILD","Audio","true","2","Never Started",""

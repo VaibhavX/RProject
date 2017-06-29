@@ -1,0 +1,8 @@
+"2017-03-22 12:02:09 PDT","I","lml0101@lml_com","SurveyService","Trying to prompt question - Q0_welcome"
+"2017-03-22 12:02:09 PDT","I","lml0101@lml_com","SurveyService","Prompting Message"
+"2017-03-22 12:05:09 PDT","I","lml0101@lml_com","SurveyService","Trying to prompt question - Q0_welcome"
+"2017-03-22 12:05:09 PDT","I","lml0101@lml_com","SurveyService","Prompting Message"
+"2017-03-22 12:09:09 PDT","I","lml0101@lml_com","SurveyService","Inside onDestroy"
+"2017-03-22 12:09:09 PDT","I","lml0101@lml_com","SurveyService","Start writing survey results to files"
+"2017-03-22 12:09:10 PDT","I","lml0101@lml_com","SurveyService","Clear EMA notification upon time out or survey completion"
+"2017-03-22 12:09:10 PDT","I","lml0101@lml_com","SurveyService","Released Wake Lock"

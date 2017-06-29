@@ -1,0 +1,6 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"lml0101@lml_com","Fri Mar 17 01:50:09 PDT 2017","","","EMA_0","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Mar 17 03:56:21 PDT 2017","","","EMA_1","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Mar 17 05:34:14 PDT 2017","","","EMA_2","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Mar 17 07:32:46 PDT 2017","","","EMA_3","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Mar 17 09:35:07 PDT 2017","","","EMA_4","","false","0","Never Prompted","Minute Service Issue"

@@ -1,0 +1,6 @@
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q1_saliva_main","Q2_thankYou","Q3_didIt"
+"test2@match_com","KEY_SALIVA_WAKING_PLUS_30","Reprompt","Never Started","2016-09-30","Fri Sep 30 07:20:28 PDT 2016","","",""
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q1_saliva_main","Q2_thankYou","Q3_didIt"
+"test2@match_com","KEY_SALIVA_AFTERNOON_330TO4_MOTHER","Prompt","Completed","2016-09-30","Fri Sep 30 15:42:28 PDT 2016","I'll do it now.","",""
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q1_saliva_main","Q2_thankYou","Q3_didIt"
+"test2@match_com","KEY_SALIVA_BEDTIME","Prompt","Completed","2016-09-30","Fri Sep 30 22:00:30 PDT 2016","I'll do it now.","",""

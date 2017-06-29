@@ -1,0 +1,2 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Thu Oct 06 19:37:14 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Thu Oct 06 19:47:15 PDT 2016","KEY_EMA_1930TO2000_CHILD","Audio","true","2","Never Started",""

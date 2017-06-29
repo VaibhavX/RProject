@@ -1,0 +1,6 @@
+"2016-10-26 16:02:16 PDT","I","test2@match_com","SurveyService","Trying to prompt question - Q0_a_welcome"
+"2016-10-26 16:02:16 PDT","I","test2@match_com","SurveyService","Prompting Message"
+"2016-10-26 16:05:16 PDT","I","test2@match_com","SurveyService","Trying to prompt question - Q0_a_welcome"
+"2016-10-26 16:05:16 PDT","I","test2@match_com","SurveyService","Prompting Message"
+"2016-10-26 16:09:16 PDT","I","test2@match_com","SurveyService","Inside onDestroy"
+"2016-10-26 16:09:17 PDT","I","test2@match_com","SurveyService","Released Wake Lock"

@@ -1,0 +1,4 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Tue Sep 27 19:09:32 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Tue Sep 27 19:19:33 PDT 2016","KEY_EMA_1900TO1930_MOTHER","Silent","true","2","Never Started",""
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Tue Sep 27 21:20:17 PDT 2016","Tue Sep 27 21:20:41 PDT 2016","Tue Sep 27 21:26:43 PDT 2016","KEY_EMA_2100TO2130_MOTHER","Vibrate","true","2","Completed",""

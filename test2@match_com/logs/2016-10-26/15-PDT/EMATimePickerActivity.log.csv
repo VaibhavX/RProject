@@ -1,0 +1,8 @@
+"2016-10-26 15:37:51 PDT","I","test2@match_com","EMATimePickerActivity","Inside onCreate, Starting EMA Time Picker Activity"
+"2016-10-26 15:37:51 PDT","I","test2@match_com","EMATimePickerActivity","Setting question on screen - SETUP_WAKE_TIME"
+"2016-10-26 15:37:58 PDT","I","test2@match_com","EMATimePickerActivity","Next button pressed"
+"2016-10-26 15:37:59 PDT","I","test2@match_com","EMATimePickerActivity","Inside onDestroy"
+"2016-10-26 15:38:24 PDT","I","test2@match_com","EMATimePickerActivity","Inside onCreate, Starting EMA Time Picker Activity"
+"2016-10-26 15:38:24 PDT","I","test2@match_com","EMATimePickerActivity","Setting question on screen - SETUP_SLEEP_TIME"
+"2016-10-26 15:38:28 PDT","I","test2@match_com","EMATimePickerActivity","Next button pressed"
+"2016-10-26 15:38:28 PDT","I","test2@match_com","EMATimePickerActivity","Inside onDestroy"

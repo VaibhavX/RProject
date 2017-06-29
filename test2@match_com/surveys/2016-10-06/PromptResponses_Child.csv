@@ -1,0 +1,2 @@
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q0_a_welcome","Q0_b_sleepTime","Q0_c_wakeUpTime","Q0_d_timesWokeUp","Q0_e_sleepQuality","Q1_a_excited","Q1_b_scared","Q1_c_cheerful","Q1_d_sad","Q1_e_stressed","Q2_a_deal","Q2_b_handle","Q3_stressful","Q4_causeOfStress","Q5_thingsDone","Q6_ill","Q7_absent","Q20_SocialContext","Q90_a_sleepTime","Q90_b_wakeUpTime","Q99_thankYou"
+"test2@match_com","KEY_EMA_1930TO2000_CHILD","Reprompt","Never Started","2016-10-06","Thu Oct 06 19:37:14 PDT 2016","","","","","","","","","","","","","","","","","","","","",""

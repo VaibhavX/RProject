@@ -1,0 +1,8 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"test2@match_com","Thu Oct 27 07:35:54 PDT 2016","","","KEY_SALIVA_WAKING","","false","0","Never Prompted","Minute Service Issue"
+"test2@match_com","Thu Oct 27 08:05:54 PDT 2016","","","KEY_SALIVA_WAKING_PLUS_30","","false","0","Never Prompted","Minute Service Issue"
+"test2@match_com","Thu Oct 27 15:56:04 PDT 2016","Thu Oct 27 15:59:29 PDT 2016","Thu Oct 27 16:00:13 PDT 2016","KEY_EMA_1530TO1600_CHILD","Audio","true","1","Completed",""
+"test2@match_com","Thu Oct 27 16:28:05 PDT 2016","Thu Oct 27 16:31:16 PDT 2016","Thu Oct 27 16:31:19 PDT 2016","KEY_SALIVA_AFTERNOON_4TO430_CHILD","Audio","true","1","Completed",""
+"test2@match_com","Thu Oct 27 17:59:06 PDT 2016","Wed Dec 31 16:00:00 PST 1969","Thu Oct 27 18:09:07 PDT 2016","KEY_EMA_1730TO1800_CHILD","Audio","true","2","Never Started",""
+"test2@match_com","Thu Oct 27 19:39:04 PDT 2016","Thu Oct 27 19:45:19 PDT 2016","Thu Oct 27 19:46:13 PDT 2016","KEY_EMA_1930TO2000_CHILD","Audio","true","2","Completed",""
+"test2@match_com","Thu Oct 27 21:46:18 PDT 2016","Thu Oct 27 21:48:23 PDT 2016","Thu Oct 27 21:48:25 PDT 2016","KEY_SALIVA_BEDTIME","Audio","false","0","Completed",""

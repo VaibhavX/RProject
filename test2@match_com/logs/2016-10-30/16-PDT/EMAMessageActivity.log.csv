@@ -1,0 +1,4 @@
+"2016-10-30 16:22:35 PDT","I","test2@match_com","EMAMessageActivity","Inside onCreate, Starting EMA Message Activity"
+"2016-10-30 16:22:35 PDT","I","test2@match_com","EMAMessageActivity","Setting message on screen - Thank you for the sample. Please place it in the refrigerator! Your last sample will be taken at bedtime before you brush your teeth."
+"2016-10-30 16:22:37 PDT","I","test2@match_com","EMAMessageActivity","Next button pressed"
+"2016-10-30 16:22:38 PDT","I","test2@match_com","EMAMessageActivity","Inside onDestroy"

@@ -1,0 +1,6 @@
+"2017-03-09 15:43:28 PST","I","lml0101@lml_com","EMATextInputActivity","Inside onCreate, Starting EMA Number Picker Activity"
+"2017-03-09 15:43:28 PST","I","lml0101@lml_com","EMATextInputActivity","Setting question on screen - Q10_a5_stressevents"
+"2017-03-09 15:43:32 PST","I","lml0101@lml_com","EMATextInputActivity","Next button pressed"
+"2017-03-09 15:43:32 PST","W","lml0101@lml_com","EMATextInputActivity","Next selected without selecting any answer"
+"2017-03-09 15:43:46 PST","I","lml0101@lml_com","EMATextInputActivity","Next button pressed"
+"2017-03-09 15:44:09 PST","I","lml0101@lml_com","EMATextInputActivity","Inside onDestroy"

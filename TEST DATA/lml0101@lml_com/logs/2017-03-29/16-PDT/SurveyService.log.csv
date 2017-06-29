@@ -1,0 +1,6 @@
+"2017-03-29 16:00:16 PDT","I","lml0101@lml_com","SurveyService","Trying to prompt question - Q0_welcome"
+"2017-03-29 16:00:16 PDT","I","lml0101@lml_com","SurveyService","Prompting Message"
+"2017-03-29 16:04:11 PDT","I","lml0101@lml_com","SurveyService","Inside onDestroy"
+"2017-03-29 16:04:11 PDT","I","lml0101@lml_com","SurveyService","Start writing survey results to files"
+"2017-03-29 16:04:12 PDT","I","lml0101@lml_com","SurveyService","Clear EMA notification upon time out or survey completion"
+"2017-03-29 16:04:12 PDT","I","lml0101@lml_com","SurveyService","Released Wake Lock"

@@ -1,0 +1,8 @@
+"2017-03-09 10:00:01 PST","I","lml0101@lml_com","SurveyService","Trying to prompt question - Q0_welcome"
+"2017-03-09 10:00:01 PST","I","lml0101@lml_com","SurveyService","Prompting Message"
+"2017-03-09 10:04:01 PST","I","lml0101@lml_com","SurveyService","Inside onDestroy"
+"2017-03-09 10:04:02 PST","I","lml0101@lml_com","SurveyService","Released Wake Lock"
+"2017-03-09 10:14:38 PST","I","lml0101@lml_com","SurveyService","Inside onCreate"
+"2017-03-09 10:14:38 PST","I","lml0101@lml_com","SurveyService","Acquired Partial Wake Lock"
+"2017-03-09 10:14:43 PST","I","lml0101@lml_com","SurveyService","Inside onCreate"
+"2017-03-09 10:14:43 PST","I","lml0101@lml_com","SurveyService","Acquired Partial Wake Lock"

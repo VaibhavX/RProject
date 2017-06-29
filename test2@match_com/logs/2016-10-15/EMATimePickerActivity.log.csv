@@ -1,0 +1,4 @@
+"2016-10-15 10:21:46 PDT","I","test2@match_com","EMATimePickerActivity","Inside onCreate, Starting EMA Time Picker Activity"
+"2016-10-15 10:21:46 PDT","I","test2@match_com","EMATimePickerActivity","Setting question on screen - Q3_didIt"
+"2016-10-15 10:21:52 PDT","I","test2@match_com","EMATimePickerActivity","Next button pressed"
+"2016-10-15 10:21:54 PDT","I","test2@match_com","EMATimePickerActivity","Inside onDestroy"

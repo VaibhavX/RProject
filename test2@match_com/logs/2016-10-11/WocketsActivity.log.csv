@@ -1,0 +1,4 @@
+"2016-10-11 10:15:28 PDT","I","test2@match_com","WocketsActivity","Inside onCreate"
+"2016-10-11 10:15:28 PDT","I","test2@match_com","WocketsActivity","Inside initialize"
+"2016-10-11 10:15:28 PDT","I","test2@match_com","WocketsActivity","Inside getPermissions"
+"2016-10-11 10:15:28 PDT","I","test2@match_com","WocketsActivity","User already logged in with email test2@match.com"

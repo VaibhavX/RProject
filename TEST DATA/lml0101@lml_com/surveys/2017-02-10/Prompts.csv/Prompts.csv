@@ -1,0 +1,7 @@
+"Subject_ID","TimeStampPrompted","TimeStampStarted","TimeStampCompleted","PromptType","PromptAudio","IsReprompt","NumReprompt","Status","Reason"
+"lml0101@lml_com","Fri Feb 10 06:34:33 PST 2017","","","QUESTIONNAIRE_0","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Feb 10 08:40:54 PST 2017","","","QUESTIONNAIRE_1","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Feb 10 10:51:19 PST 2017","","","QUESTIONNAIRE_2","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Feb 10 12:35:47 PST 2017","","","QUESTIONNAIRE_3","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Feb 10 14:37:15 PST 2017","","","QUESTIONNAIRE_4","","false","0","Never Prompted","Minute Service Issue"
+"lml0101@lml_com","Fri Feb 10 16:52:57 PST 2017","Fri Feb 10 16:56:10 PST 2017","Fri Feb 10 16:56:45 PST 2017","QUESTIONNAIRE_5","Audio","true","1","Completed",""

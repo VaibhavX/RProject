@@ -1,0 +1,4 @@
+"2016-10-11 10:15:55 PDT","I","test2@match_com","EMASingleChoiceActivity","Inside onCreate, Starting EMA Single Choice Activity"
+"2016-10-11 10:15:55 PDT","I","test2@match_com","EMASingleChoiceActivity","Setting question on screen - Q1_saliva_main"
+"2016-10-11 10:16:01 PDT","I","test2@match_com","EMASingleChoiceActivity","Next button pressed"
+"2016-10-11 10:22:06 PDT","I","test2@match_com","EMASingleChoiceActivity","Inside onDestroy"

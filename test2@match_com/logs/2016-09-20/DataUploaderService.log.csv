@@ -1,0 +1,4 @@
+1474388765075,2016-09-20 09:26:05.075-0700,i,Starting 60-minute file upload and 24-hour log and survey files upload
+1474388765333,2016-09-20 09:26:05.333-0700,i,Files before JSON zip of zips: 399
+1474388765654,2016-09-20 09:26:05.654-0700,i,Files AFTER JSON zip of zips: 300
+1474388786941,2016-09-20 09:26:26.941-0700,i,Completed file upload attempt of 300 files after 0.5 minutes. Files remaining to upload: 300

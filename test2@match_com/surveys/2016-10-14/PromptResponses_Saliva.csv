@@ -1,0 +1,5 @@
+"Subject_ID","PromptID","PromptType","Status","PromptDate","PromptTime","Q1_saliva_main","Q2_thankYou","Q3_didIt"
+"test2@match_com","KEY_SALIVA_WAKING","Reprompt","Never Started","2016-10-14","Fri Oct 14 07:00:18 PDT 2016","","",""
+"test2@match_com","KEY_SALIVA_WAKING_PLUS_30","Reprompt","Never Started","2016-10-14","Fri Oct 14 07:30:20 PDT 2016","","",""
+"test2@match_com","KEY_SALIVA_AFTERNOON_330TO4_MOTHER","Reprompt","Completed","2016-10-14","Fri Oct 14 15:47:08 PDT 2016","I'll do it now.","",""
+"test2@match_com","KEY_SALIVA_BEDTIME","Prompt","Completed","2016-10-14","Fri Oct 14 22:01:01 PDT 2016","Don't remind me again.","",""

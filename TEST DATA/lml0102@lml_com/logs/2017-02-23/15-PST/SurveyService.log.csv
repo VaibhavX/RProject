@@ -1,0 +1,5 @@
+"2017-02-23 15:01:20 PST","I","lml0102@lml_com","SurveyService","Trying to prompt question - Q0_welcome"
+"2017-02-23 15:01:20 PST","I","lml0102@lml_com","SurveyService","Prompting Message"
+"2017-02-23 15:05:20 PST","I","lml0102@lml_com","SurveyService","Inside onDestroy"
+"2017-02-23 15:05:21 PST","I","lml0102@lml_com","SurveyService","Clear EMA notification upon survey completion"
+"2017-02-23 15:05:21 PST","I","lml0102@lml_com","SurveyService","Released Wake Lock"
