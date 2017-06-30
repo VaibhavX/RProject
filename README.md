@@ -1,5 +1,6 @@
 Initial Branch information
 --------------------------
 
-RCode_Vai - All the R code and the sample input files
-afilus - Data and reference code
+1. RCode_Vai - All the R code and the sample input files
+
+2. afilus - Data and reference code
