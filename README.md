@@ -7,4 +7,10 @@ Task that we are aiming to achieve:
 
 --------
 
+Update:
+
+1. Code for merging the static dataset works. Quick note on using the code - Change the path to the directory where multiple CSV files are located.
+[Currently being tested for dynamic dataset]
+
+
 Code by Vaibhav Vishal (Vai)
