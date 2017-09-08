@@ -321,3 +321,6 @@ for(i in 1:nrow(df))
   if(df$Q15_thankyou =="question is not displayed") {df$Q15_thankyou <- 999}
   if(df$Q15_thankyou=="no need to answer") {df$Q15_thankyou <- 0}
 }
+
+#Writing the converted data frame to a csv file
+write.csv(df,"/Users/vaibhavx/Desktop/R_Data/merge_data_likert.csv", row.names = FALSE)
